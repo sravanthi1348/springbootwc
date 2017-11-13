@@ -2,6 +2,7 @@
 This example shows how to use angular 2 application with java Spring MVC with help of RestController.<br>
 
 Here you can see following things.<br>
+<p><b>original reference: https://github.com/zouabimourad/angular2-spring<b></p>
 <p><b>Server Side<b></p>
 <ul>
 <li>SpringBoot</li>
